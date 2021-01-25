@@ -1,2 +1,2 @@
 # Db.cpp
-学习C++的记录
+Very basic projects.
